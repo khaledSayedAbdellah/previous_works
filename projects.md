@@ -17,7 +17,7 @@
 <br>
 
 <!--
-  ADDING A LINK  : uncomment the matching badge line under a project and drop the URL in.
+  ADDING A LINK  : add an <a> with an App_Store / Google_Play shields.io badge in the links <p>.
   CHANGING AN ICON: replace the placehold.co URL with a hosted image URL. The Play Store
                     icon works well — open the listing and copy the play-lh.googleusercontent.com
                     URL from the page source, then append =w240-h480.
@@ -36,7 +36,6 @@
       <p>
       <a href="https://apps.apple.com/sa/app/hawi-saudi-arabia/id1594176538"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="iOS"></a>
       <a href="https://play.google.com/store/apps/details?id=com.hawi.qol"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a>
-      <a href="https://hawi.gov.sa/"><img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
       </p>
     </td>
   </tr>
@@ -51,33 +50,47 @@
       <p>
       <a href="https://apps.apple.com/ca/app/ntg-apps/id1533118395"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="iOS"></a>
       <a href="https://play.google.com/store/apps/details?id=com.ntg.smart2go"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a>
-      <a href="https://ntgclarity.com/"><img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
       </p>
     </td>
   </tr>
 
-  <tr id="e-library">
+  <tr id="ilibrary">
     <td width="170" align="center" valign="middle">
-      <img src="https://placehold.co/160x160/0F172A/38BDF8/png?text=E-Lib" width="110" alt="E-library icon">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/01/87/36018751-02e9-818d-d07c-dcc9e4cdcf3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg" width="110" alt="iLibrary icon">
     </td>
     <td valign="middle">
-      <h3>E-library</h3>
-      <p>Digital reading platform that turns raw HTML into fully customizable e-books. Readers get themes and typography controls, highlights and annotations, full-text search, and an AI assistant that answers questions about the text in front of them.</p>
+      <h3>iLibrary</h3>
+      <p>Digital reading platform offering unlimited access to 70,000+ eBooks on a single subscription rather than per-book purchases. AI does the heavy lifting: explaining an author's intent in dense passages, translating lines inline, and defining any word with synonyms and examples saved to a personal vocabulary list. Rounded out with customizable typography and themes, bookmarks, highlights, notes, resume-where-you-left-off detection, and personalized recommendations.</p>
       <p>
-      <!-- <a href="ADD_LINK_URL"><img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Link"></a> -->
+      <a href="https://apps.apple.com/us/app/i-library/id6745789147"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="iOS"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.elibrary.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr id="incentify">
+    <td width="170" align="center" valign="middle">
+      <img src="https://play-lh.googleusercontent.com/mKYKCUQwOZgvmV7_bLHiutEjIJQjQFfQV2Q2-DEYpp4ZD9r2q-Kh-T22Jq7iCya4CEo=w240-h480" width="110" alt="Incentify icon">
+    </td>
+    <td valign="middle">
+      <h3>Incentify</h3>
+      <p>Workforce motivation platform for retail, hospitality, and distributed teams. Managers assign tasks by role, site, or shift and watch progress land in real time; staff earn points against custom KPIs and redeem them for vouchers, bonuses, or custom perks. Also handles shift scheduling with confirm and swap, role-based views that hide team data from regular users, push reminders, and productivity and attendance analytics. Recent releases added a live operations map and an in-app AI agent that auto-builds schedules.</p>
+      <p>
+      <a href="https://apps.apple.com/us/app/incentify/id6483004442"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="iOS"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.gt.incentify"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a>
       </p>
     </td>
   </tr>
 
   <tr id="finds">
     <td width="170" align="center" valign="middle">
-      <img src="https://placehold.co/160x160/0F172A/38BDF8/png?text=Finds" width="110" alt="Finds icon">
+      <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/75/ef/2975efb7-c54d-663b-6af5-8a46ea0d905e/AppIcon-0-0-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="110" alt="Finds icon">
     </td>
     <td valign="middle">
       <h3>Finds</h3>
-      <p>Creator-first social platform combining live streaming, short-form video, and text posts in a single feed. Built around audience engagement — real-time interaction during broadcasts, follower growth, and content discovery.</p>
+      <p>Local discovery platform for finding what a city has to offer — restaurants, cafes, events, and one-off experiences. Personalized recommendations from your history, community ratings and reviews, exclusive deals, and social features for sharing plans with friends or meeting people with the same interests.</p>
       <p>
-      <!-- <a href="ADD_LINK_URL"><img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Link"></a> -->
+      <a href="https://apps.apple.com/us/app/findsapp/id6502782942"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="iOS"></a>
       </p>
     </td>
   </tr>
@@ -89,9 +102,6 @@
     <td valign="middle">
       <h3>Accounting</h3>
       <p>Enterprise accounting system covering the full financial cycle — chart of accounts, journal and transaction records, invoicing, and reporting. Produces the statements finance teams actually close their books on.</p>
-      <p>
-      <!-- <a href="ADD_LINK_URL"><img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Link"></a> -->
-      </p>
     </td>
   </tr>
 
@@ -102,9 +112,6 @@
     <td valign="middle">
       <h3>Mele ERP</h3>
       <p>Enterprise resource planning suite unifying inventory, sales, purchasing, accounting, and customer management. One system of record connecting stock movements to orders, invoices, and ledgers across a business's operations.</p>
-      <p>
-      <!-- <a href="ADD_LINK_URL"><img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Link"></a> -->
-      </p>
     </td>
   </tr>
 
