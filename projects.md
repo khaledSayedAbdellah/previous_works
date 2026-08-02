@@ -18,37 +18,40 @@
 
 <!--
   ADDING A LINK  : uncomment the matching badge line under a project and drop the URL in.
-  CHANGING AN ICON: replace the placehold.co URL with real artwork
-                    (App Store / Play icon, or a file in this repo under /assets).
-  SPACING        : the table is centered at 90% width — lower that number for wider margins.
+  CHANGING AN ICON: replace the placehold.co URL with a hosted image URL. The Play Store
+                    icon works well — open the listing and copy the play-lh.googleusercontent.com
+                    URL from the page source, then append =w240-h480.
+  SPACING        : the table is centered at 72% width — lower that number to narrow the
+                   description column further, raise it to widen.
 -->
 
-<table align="center" width="90%">
+<table align="center" width="72%">
   <tr id="hawi">
     <td width="170" align="center" valign="middle">
-      <img src="https://placehold.co/160x160/0F172A/38BDF8/png?text=HAWI" width="110" alt="HAWI icon">
+      <img src="https://play-lh.googleusercontent.com/p5A0Udn1HHFMmMAlQOD5vdX614Uha70sXmSq86DBRDG7_TbSyqCqovjQ4hDFuD1gH4wuCZIKwYd-EfEWulBmeQ=w240-h480" width="110" alt="HAWI icon">
     </td>
     <td valign="middle">
       <h3>HAWI</h3>
       <p>National platform for Saudi Arabia's hobby-club sector, built for the Quality of Life Program under Vision 2030. Members discover and join clubs, found new ones, book spaces, run events and training courses, and manage club finances — now serving hundreds of clubs across the Kingdom.</p>
       <p>
       <a href="https://apps.apple.com/sa/app/hawi-saudi-arabia/id1594176538"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="iOS"></a>
-      <!-- <a href="ADD_ANDROID_URL"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a> -->
+      <a href="https://play.google.com/store/apps/details?id=com.hawi.qol"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a>
+      <a href="https://hawi.gov.sa/"><img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
       </p>
     </td>
   </tr>
 
   <tr id="ntg-apps">
     <td width="170" align="center" valign="middle">
-      <img src="https://placehold.co/160x160/0F172A/38BDF8/png?text=NTG" width="110" alt="NTG apps icon">
+      <img src="https://play-lh.googleusercontent.com/AenXYsPinqRt9qN9A8DvkQNwKRO-kTthlwaTaeqGP9oDcXIn2bMOkI4rQPDef-lFu_v9woSOfXgbZqGcxaJ59dM=w240-h480" width="110" alt="NTG apps icon">
     </td>
     <td valign="middle">
       <h3>NTG apps</h3>
       <p>Low-code platform for assembling business applications without writing code. Drag-built forms, a workflow and rules engine, SLA tracking, and integration layers — with plug-and-play templates for HR, CRM, and asset management shipping to web, iOS, and Android.</p>
       <p>
       <a href="https://apps.apple.com/ca/app/ntg-apps/id1533118395"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="iOS"></a>
+      <a href="https://play.google.com/store/apps/details?id=com.ntg.smart2go"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a>
       <a href="https://ntgclarity.com/"><img src="https://img.shields.io/badge/Website-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-      <!-- <a href="ADD_ANDROID_URL"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a> -->
       </p>
     </td>
   </tr>
