@@ -309,7 +309,7 @@
 
   <tr id="al-gedawy-group">
     <td width="170" align="center" valign="middle">
-      <img src="http://mainsite.gedawigroup.com/images/logo.png" width="110" alt="Al Gedawy Group icon">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoxJWNFtVoxD9hV1SXbiL4uxxsF1L33xzJOsJL2K-xZeOryNlrc4XWYI0&s=10" width="110" alt="Al Gedawy Group icon">
     </td>
     <td valign="middle">
       <h3>Al Gedawy Group</h3>
