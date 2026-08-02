@@ -301,9 +301,6 @@
     <td valign="middle">
       <h3>Styles Creator</h3>
       <p>Virtual styling app for building outfits before you buy them. Position, resize, and rotate clothing items on a model to preview a look, then save or publish it — start from scratch or swap pieces in and out.</p>
-      <p>
-      <a href="https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/styles_creator.apk"><img src="https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="APK"></a>
-      </p>
     </td>
   </tr>
 
@@ -314,9 +311,6 @@
     <td valign="middle">
       <h3>Al Gedawy Group</h3>
       <p>App for a legal and commercial advisory firm — company formation, licensing, and the procedural paperwork that comes with setting up a business.</p>
-      <p>
-      <a href="https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/gedawy_group.apk"><img src="https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="APK"></a>
-      </p>
     </td>
   </tr>
 
@@ -327,9 +321,6 @@
     <td valign="middle">
       <h3>Infopanies</h3>
       <p>Social network for companies and individuals in tech — a place to trade notes on where the industry is heading and work through the obstacles teams keep hitting.</p>
-      <p>
-      <a href="https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/infopanies.apk"><img src="https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="APK"></a>
-      </p>
     </td>
   </tr>
 </table>
