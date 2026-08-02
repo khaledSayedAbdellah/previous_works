@@ -95,6 +95,19 @@
     </td>
   </tr>
 
+  <tr id="cognify">
+    <td width="170" align="center" valign="middle">
+      <img src="https://play-lh.googleusercontent.com/5TktvrpCvDlpQ1sFHhKykkzl4ZKlf0pbVKpSX2fKBumNxFP_VOFcGM9FQNOX2jucXCb6AS8dt961H4nAsQlQ=w240-h480" width="110" alt="Cognify icon">
+    </td>
+    <td valign="middle">
+      <h3>Cognify</h3>
+      <p>Brain-training arcade bundling eleven games into one app — Wordle, Hangman, trivia, memory and color sequences, Speed Match, math audits, and riddles — across Practice, Time Bomb, and Survival modes. Players compete on per-game leaderboards, join or host real-time rooms with friends, and grind daily challenges for coins that buy hints like Reveal Letter and Extra Time. Includes friend requests and profiles, per-game history and progress tracking, offline play for most games, and a colorblind mode that swaps color cues for shapes and patterns.</p>
+      <p>
+      <a href="https://play.google.com/store/apps/details?id=com.gt.cognify"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Android"></a>
+      </p>
+    </td>
+  </tr>
+
   <tr id="accounting">
     <td width="170" align="center" valign="middle">
       <img src="https://placehold.co/160x160/0F172A/38BDF8/png?text=Acct" width="110" alt="Accounting icon">
