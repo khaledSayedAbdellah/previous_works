@@ -1,63 +1,233 @@
-# Khaled Sayed Abdellah
+<h1 align="center">Khaled Sayed Abdellah</h1>
 
-Mobile & software engineer. 25+ shipped products across enterprise systems, marketplaces, fintech, and social platforms — for clients in Saudi Arabia and Egypt.
+<p align="center">
+  Mobile &amp; software engineer — 20+ shipped products across government platforms,<br>
+  enterprise systems, marketplaces, and social apps in Saudi Arabia and Egypt.
+</p>
 
-<!-- Optional: uncomment and fill in
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khaled.s.abdellah@gmail.com)
--->
+<p align="center">
+  <a href="mailto:khaled.s.abdellah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <!-- <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+</p>
 
----
+<hr>
 
-## Recent Work — 2022 to 2026
-
-Enterprise platforms and government systems.
-
-| Project | Period | What it is | Links |
-|---|---|---|---|
-| **HAWI** | 06/2025 – 06/2026 | Saudi government platform for managing hobby clubs, events, and community engagement. Built for the Quality of Life Program (Vision 2030), supporting 400+ clubs across the Kingdom. | [iOS](https://apps.apple.com/sa/app/hawi-saudi-arabia/id1594176538) · `[Android — add link]` |
-| **NTG apps** | 05/2024 – 06/2025 | Low-code platform for building business applications, forms, and workflow management solutions — HR, CRM, asset management templates on web, iOS, and Android. | [iOS](https://apps.apple.com/ca/app/ntg-apps/id1533118395) · [Site](https://ntgclarity.com/) · `[Android — add link]` |
-| **E-library** | 01/2024 – 05/2024 | Digital reading platform that converts HTML content into customizable e-books, with personalization, annotations, search, and AI-powered content assistance. | `[add link]` |
-| **Finds** | 01/2024 – 05/2024 | Social media platform for creators — live streaming, short videos, posts, and audience engagement. | `[add link]` |
-| **Accounting** | 05/2023 – 01/2024 | Enterprise accounting system for financial operations, invoices, chart of accounts, transaction records, and financial reporting. | `[add link]` |
-| **Mele ERP** | 03/2022 – 04/2024 | Enterprise resource planning system covering inventory, sales, purchasing, accounting, customers, and business operations. | `[add link]` |
-
----
-
-## Published Apps — Badia / Musllaha
-
-Consumer and B2B apps live on the App Store and Google Play.
-
-| Project | What it is | Links |
-|---|---|---|
-| <img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e0/22/b5/e022b5d4-8114-c21c-d48e-5f4758d56526/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="48"><br>**Main Pro** | Marketplace bringing every maintenance service provider under one roof — car, home, and electronics maintenance. | [Android](https://play.google.com/store/apps/details?id=com.Musllaha) · [iOS](https://apps.apple.com/us/app/main-pro-%D9%85%D8%A7%D9%8A%D9%86-%D8%A8%D8%B1%D9%88/id1582292480) |
-| <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/ad/33/cdad33c7-58cf-3f4f-74dd-ca90e9bff9ba/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="48"><br>**Main Pro Partner** | Provider-side app for Main Pro — mechanics, plumbing, paint, oil change, tires and batteries, across Saudi Arabia. | [Android](https://play.google.com/store/apps/details?id=com.musllah.musullahservice) · [iOS](https://apps.apple.com/us/app/main-pro-partner-%D8%B4%D8%B1%D9%8A%D9%83-%D9%85%D8%A7%D9%8A%D9%86-%D8%A8%D8%B1%D9%88/id1576702076) |
-| <img src="https://play-lh.googleusercontent.com/4dUFaV4iJEStr_hSpZvOBvipljJ3bAbkXC4tCw4RbZYlcqfdUG2WV97HZYsR4ME9K7la=w480-h960-rw" width="48"><br>**I Famous** | Direct-to-celebrity platform — book services, connect with talent, and engage followers. | [Android](https://play.google.com/store/apps/details?id=com.Badia.Mr.Mashhur) · [iOS](https://apps.apple.com/us/app/ifamous/id1644139054) |
-| <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/26/cc/6b26ccf0-99a5-1817-f8d0-da7899631efa/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp" width="48"><br>**Mwardi** | HR system with attendance tracking for employees and managers — leave requests, permissions, photo reports, meeting management. | [Android](https://play.google.com/store/apps/details?id=com.mwardi.app) · [iOS](https://apps.apple.com/eg/app/mwardi/id6444159801) |
-| <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/93/3f/4d933f0d-f35e-3faa-db89-bc079ccebac1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="48"><br>**Real Come** | Attendance app for employees and managers — check-in/out, leave requests, photo reports, business card scanning, per-employee reporting. | [Android](https://play.google.com/store/apps/details?id=com.arabbadia.attendance_app) · [iOS](https://apps.apple.com/eg/app/real-come/id1599098078) |
-| <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/41/fe/10/41fe10ba-ccbe-ae45-f1bd-1c2be419dc2b/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="48"><br>**Afkar** | Investment platform connecting entrepreneurs with investors to turn business ideas into funded ventures. | [Android](https://play.google.com/store/apps/details?id=com.afkar) · [iOS](https://apps.apple.com/eg/app/afkar/id1525581075) |
-| <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/35/8d/f2/358df2e2-bf77-0d9e-1e27-70c0f50bb099/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp" width="48"><br>**InSure** | Multi-discipline consulting marketplace — request advice and receive multiple offers simultaneously. | [Android](https://play.google.com/store/apps/details?id=jader.sure) · [iOS](https://apps.apple.com/eg/app/insure-%D8%A7%D9%86%D8%B4%D9%88%D8%B1/id1553904022) |
-| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/d8/81/34d88115-7d1b-fc08-4779-ff5fd96b3306/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp" width="48"><br>**Go Taxi** | Ride-hailing app — book a ride in minutes, no parking, traffic stress, or waiting. | [Android](https://play.google.com/store/apps/details?id=com.gotaxi.user) · [iOS](https://apps.apple.com/eg/app/go-taxi-%D8%AC%D9%88-%D8%AA%D8%A7%D9%83%D8%B3%D9%8A/id1287483414) |
-| <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/89/28/b0/8928b091-e134-1492-cade-65dc10b0b6c5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="48"><br>**Go Talabat** | Food ordering and delivery from restaurants. | [Android](https://play.google.com/store/apps/details?id=com.app.go_talabat_restaurant) · [iOS](https://apps.apple.com/eg/app/go-talabat/id1587119217) |
-| <img src="https://play-lh.googleusercontent.com/OeCmWslHEpgr8cbo3ZYwsWQjILr9IJSJV3gYjXHYU-cIxhdzyqqeTHydTGaRCRGRBg=w480-h960-rw" width="48"><br>**Altamayuz** | Membership card app for daily needs and discounts across the Kingdom, aligned with Saudi Vision 2030. | [Android](https://play.google.com/store/apps/details?id=tamayouzapp.tamayouz) |
-| <img src="https://play-lh.googleusercontent.com/R8RAyl6fbmxYO-lbKWwsEQrIG0ejk3vJcn1TUGEY_T24sLv02d-MNvekPSAPAONXB_k=w480-h960-rw" width="48"><br>**Alyassirah** | Ordering app for Al-Yassirah Turkish restaurants — full menu of Ottoman grills, kofta, and kebab. | [Android](https://play.google.com/store/apps/details?id=alyassirah.company.com) · [iOS](https://apps.apple.com/us/app/%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%8A%D8%B3%D9%8A%D8%B1%D8%A9/id1512178854) |
-| <img src="https://play-lh.googleusercontent.com/t6Xd_BF-Smh7MxUGgVV49fpZP-Cni_7cqkTHNurXOwVaEdcMgyw3UAtAj2AGhed9YjY=w480-h960-rw" width="48"><br>**Maojod** | E-commerce marketplace — electronics, fashion, health and beauty, perfumes, groceries, baby and household products. | [Android](https://play.google.com/store/apps/details?id=com.maojod.maojod_app) |
-
----
-
-## Earlier Projects
-
-Demo and client work distributed as APKs.
-
-| Project | Period | What it is | Links |
-|---|---|---|---|
-| **Styles Creator** | 09/2021 – 03/2022 | Virtual styling app — create and customize outfits by positioning, resizing, and rotating clothing items to preview a look before buying. | [APK](https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/styles_creator.apk) |
-| **Al Gedawy Group** | — | App for a legal, commercial, and advisory firm handling company formation procedures. | [APK](https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/gedawy_group.apk) |
-| **Infopanies** | — | Social platform for businesses and individuals to discuss technology developments and solutions. | [APK](https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/infopanies.apk) |
+<h2 align="center">Selected Work</h2>
 
 <!--
-Archived — E Fatora Tec
-Secure e-invoicing system authorized by the Zakat, Tax and Customs Authority, with cloud storage,
-processing, analysis, and sharing of invoices. Site appears to be offline; re-add if it returns.
-http://www.fatora-tec.com/
+  To swap a placeholder icon: replace the placehold.co URL with a real icon URL
+  (App Store artwork, Play Store icon, or a file in this repo under /assets).
+  To add a store link: uncomment the matching badge line under that project.
+-->
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://placehold.co/100x100/0F172A/38BDF8/png?text=HAWI" width="90" align="left" hspace="12">
+<h3>HAWI</h3>
+<p>National platform for Saudi Arabia's hobby-club sector, built for the Quality of Life Program under Vision 2030. Members discover and join clubs, found new ones, book spaces, run events and courses, and manage club finances — now serving hundreds of clubs across the Kingdom.</p>
+<p>
+<a href="https://apps.apple.com/sa/app/hawi-saudi-arabia/id1594176538"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<!-- <a href="ANDROID_URL"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a> -->
+</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://placehold.co/100x100/0F172A/38BDF8/png?text=NTG" width="90" align="left" hspace="12">
+<h3>NTG apps</h3>
+<p>Low-code platform for assembling business applications without writing code. Drag-built forms, a workflow and rules engine, SLA tracking, and integration layers — with plug-and-play templates for HR, CRM, and asset management shipping to web, iOS, and Android.</p>
+<p>
+<a href="https://apps.apple.com/ca/app/ntg-apps/id1533118395"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://ntgclarity.com/"><img src="https://img.shields.io/badge/Website-1E293B?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://placehold.co/100x100/0F172A/38BDF8/png?text=E-Lib" width="90" align="left" hspace="12">
+<h3>E-library</h3>
+<p>Digital reading platform that turns raw HTML into fully customizable e-books. Readers get an interactive experience with themes and typography controls, highlights and annotations, full-text search, and an AI assistant that answers questions about what they're reading.</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://placehold.co/100x100/0F172A/38BDF8/png?text=Finds" width="90" align="left" hspace="12">
+<h3>Finds</h3>
+<p>Creator-first social platform combining live streaming, short-form video, and text posts in one feed. Built around audience engagement — real-time interaction during broadcasts, follower growth, and content discovery.</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://placehold.co/100x100/0F172A/38BDF8/png?text=Acct" width="90" align="left" hspace="12">
+<h3>Accounting</h3>
+<p>Enterprise accounting system covering the full financial cycle — chart of accounts, journal and transaction records, invoicing, and reporting. Generates the statements finance teams actually close their books on.</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://placehold.co/100x100/0F172A/38BDF8/png?text=Mele" width="90" align="left" hspace="12">
+<h3>Mele ERP</h3>
+<p>Enterprise resource planning suite unifying inventory, sales, purchasing, accounting, and customer management. One system of record connecting stock movements to orders, invoices, and ledgers across a business's operations.</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://is2-ssl.mzstatic.com/image/thumb/Purple122/v4/e0/22/b5/e022b5d4-8114-c21c-d48e-5f4758d56526/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="90" align="left" hspace="12">
+<h3>Main Pro</h3>
+<p>Marketplace that puts every maintenance provider under one roof — car, home, and electronics repair. Customers describe the problem, compare nearby providers, and book without hunting for a workshop.</p>
+<p>
+<a href="https://apps.apple.com/us/app/main-pro-%D9%85%D8%A7%D9%8A%D9%86-%D8%A8%D8%B1%D9%88/id1582292480"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=com.Musllaha"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple112/v4/cd/ad/33/cdad33c7-58cf-3f4f-74dd-ca90e9bff9ba/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="90" align="left" hspace="12">
+<h3>Main Pro Partner</h3>
+<p>Provider side of Main Pro. Mechanics, plumbers, painters, and tire and battery shops across Saudi Arabia receive job requests, quote, and manage their workload from the app.</p>
+<p>
+<a href="https://apps.apple.com/us/app/main-pro-partner-%D8%B4%D8%B1%D9%8A%D9%83-%D9%85%D8%A7%D9%8A%D9%86-%D8%A8%D8%B1%D9%88/id1576702076"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=com.musllah.musullahservice"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/4dUFaV4iJEStr_hSpZvOBvipljJ3bAbkXC4tCw4RbZYlcqfdUG2WV97HZYsR4ME9K7la=w480-h960-rw" width="90" align="left" hspace="12">
+<h3>I Famous</h3>
+<p>Direct line between fans and public figures. Celebrities list the services they offer, take bookings, and stay in touch with their following — all handled inside the platform.</p>
+<p>
+<a href="https://apps.apple.com/us/app/ifamous/id1644139054"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=com.Badia.Mr.Mashhur"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/6b/26/cc/6b26ccf0-99a5-1817-f8d0-da7899631efa/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.jpeg/460x0w.webp" width="90" align="left" hspace="12">
+<h3>Mwardi</h3>
+<p>HR and attendance system for employees and managers in one place — clock in and out, request leave or permissions, file photo reports from the field, and run meetings.</p>
+<p>
+<a href="https://apps.apple.com/eg/app/mwardi/id6444159801"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=com.mwardi.app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/4d/93/3f/4d933f0d-f35e-3faa-db89-bc079ccebac1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" width="90" align="left" hspace="12">
+<h3>Real Come</h3>
+<p>Field-team attendance app with photo-verified check-ins, leave and permission requests, business and personal card scanning, and per-employee reporting for managers.</p>
+<p>
+<a href="https://apps.apple.com/eg/app/real-come/id1599098078"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=com.arabbadia.attendance_app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/41/fe/10/41fe10ba-ccbe-ae45-f1bd-1c2be419dc2b/AppIcon-1x_U007emarketing-0-10-0-0-85-220.png/460x0w.webp" width="90" align="left" hspace="12">
+<h3>Afkar</h3>
+<p>Investment platform matching founders with backers. Whether the venture is already running or still an idea on paper, owners pitch it and investors who can fund it find them.</p>
+<p>
+<a href="https://apps.apple.com/eg/app/afkar/id1525581075"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=com.afkar"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/35/8d/f2/358df2e2-bf77-0d9e-1e27-70c0f50bb099/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/460x0w.webp" width="90" align="left" hspace="12">
+<h3>InSure</h3>
+<p>Consulting marketplace spanning many specializations. Post a request once and receive multiple offers from qualified advisors in the same moment, then pick the one that fits.</p>
+<p>
+<a href="https://apps.apple.com/eg/app/insure-%D8%A7%D9%86%D8%B4%D9%88%D8%B1/id1553904022"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=jader.sure"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/d8/81/34d88115-7d1b-fc08-4779-ff5fd96b3306/AppIcon-1x_U007emarketing-0-10-0-85-220.png/460x0w.webp" width="90" align="left" hspace="12">
+<h3>Go Taxi</h3>
+<p>Ride-hailing app for everyday trips — commutes, airport runs, family visits. Book in a few taps and skip parking, traffic, and waiting at the curb for a cab.</p>
+<p>
+<a href="https://apps.apple.com/eg/app/go-taxi-%D8%AC%D9%88-%D8%AA%D8%A7%D9%83%D8%B3%D9%8A/id1287483414"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=com.gotaxi.user"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/89/28/b0/8928b091-e134-1492-cade-65dc10b0b6c5/AppIcon-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" width="90" align="left" hspace="12">
+<h3>Go Talabat</h3>
+<p>Food ordering and delivery. Browse nearby restaurants, build an order, and track it to the door.</p>
+<p>
+<a href="https://apps.apple.com/eg/app/go-talabat/id1587119217"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=com.app.go_talabat_restaurant"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/OeCmWslHEpgr8cbo3ZYwsWQjILr9IJSJV3gYjXHYU-cIxhdzyqqeTHydTGaRCRGRBg=w480-h960-rw" width="90" align="left" hspace="12">
+<h3>Altamayuz</h3>
+<p>Digital membership card that stretches a household budget — discounts on daily needs across a wide merchant network, aligned with the Kingdom's Vision 2030 quality-of-life goals.</p>
+<p>
+<a href="https://play.google.com/store/apps/details?id=tamayouzapp.tamayouz"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/R8RAyl6fbmxYO-lbKWwsEQrIG0ejk3vJcn1TUGEY_T24sLv02d-MNvekPSAPAONXB_k=w480-h960-rw" width="90" align="left" hspace="12">
+<h3>Alyassirah</h3>
+<p>Ordering app for Al-Yassirah's Turkish restaurants — the full menu of Ottoman grills, kofta, and kebab, ordered ahead or delivered.</p>
+<p>
+<a href="https://apps.apple.com/us/app/%D9%85%D8%B7%D8%A7%D8%B9%D9%85-%D8%A7%D9%84%D9%8A%D8%B3%D9%8A%D8%B1%D8%A9/id1512178854"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="iOS"></a>
+<a href="https://play.google.com/store/apps/details?id=alyassirah.company.com"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<img src="https://play-lh.googleusercontent.com/t6Xd_BF-Smh7MxUGgVV49fpZP-Cni_7cqkTHNurXOwVaEdcMgyw3UAtAj2AGhed9YjY=w480-h960-rw" width="90" align="left" hspace="12">
+<h3>Maojod</h3>
+<p>General-merchandise marketplace carrying top brands across electronics, fashion, health and beauty, perfumes, groceries, baby goods, and household items.</p>
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.maojod.maojod_app"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" alt="Android"></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/style-26-logo-png-transparent.png" width="90" align="left" hspace="12">
+<h3>Styles Creator</h3>
+<p>Virtual styling app for building outfits before you buy them. Position, resize, and rotate clothing items on a model to preview a look, then save or publish it — start from scratch or swap pieces in and out.</p>
+<p>
+<a href="https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/styles_creator.apk"><img src="https://img.shields.io/badge/APK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="APK"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+<img src="http://mainsite.gedawigroup.com/images/logo.png" width="90" align="left" hspace="12">
+<h3>Al Gedawy Group</h3>
+<p>App for a legal and commercial advisory firm — company formation, licensing, and the procedural paperwork that goes with setting up a business.</p>
+<p>
+<a href="https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/gedawy_group.apk"><img src="https://img.shields.io/badge/APK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="APK"></a>
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<img src="https://forasna-images.wuzzuf-data.net/uploads/logos/thumb_clogo_2019-11-23-12-28-18_ZGXkXBivqiV8OFUjrZBMRAXX.png" width="90" align="left" hspace="12">
+<h3>Infopanies</h3>
+<p>Social network for companies and individuals in tech — a place to trade notes on where the industry is heading and work through the obstacles teams keep hitting.</p>
+<p>
+<a href="https://github.com/khaledSayedAbdellah/khaledSayedAbdellah/blob/main/medad/infopanies.apk"><img src="https://img.shields.io/badge/APK-3DDC84?style=flat-square&logo=android&logoColor=white" alt="APK"></a>
+</p>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+<!--
+  Archived — E Fatora Tec
+  Secure e-invoicing system authorized by the Zakat, Tax and Customs Authority: cloud storage,
+  processing, analysis, and sharing of invoices with no added fees.
+  Site (http://www.fatora-tec.com/) appears to be offline — restore this card if it returns.
 -->
